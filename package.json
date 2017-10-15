@@ -1,0 +1,29 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "MEAN blog app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atprana/MEAN-Stack-angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "angular",
+    "2"
+  ],
+  "author": "Aditya Tresna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atprana/MEAN-Stack-angular-2/issues"
+  },
+  "homepage": "https://github.com/atprana/MEAN-Stack-angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1"
+  }
+}
